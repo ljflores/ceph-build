@@ -9,7 +9,7 @@
           wipe-workspace: true
           basedir: "ceph-build"
           branches:
-            - origin/master
+            - origin/main
 
 - job:
     name: ceph-tag
